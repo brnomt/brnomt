@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bruno</h1>
-<h3 align="center">A Computer Engineering student & cybersecurity enthusiast.</h3>
+<h1 align="center">Hi! 👋, I'm Bruno</h1>
+<h3 align="center">I'm a Computer Engineering student with a love for cybersecurity.</h3>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)  

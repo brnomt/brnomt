@@ -54,7 +54,6 @@
   <tr>
     <td><b>Hardware & Infrastructure:</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" alt="Arduino">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg" alt="Raspberry Pi">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare2.svg" alt="Cloudflare">
     </td>
@@ -62,8 +61,8 @@
   <tr>
     <td><b>Operating Systems:</b></td>
     <td>
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios1.svg" alt="iOS">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg" alt="Windows">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios1.svg" alt="iOS">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" alt="Ubuntu">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg" alt="Kali">
     </td>

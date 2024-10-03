@@ -9,7 +9,7 @@
     <td><b>Languages:</b></td>
     <td>
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg" alt="C">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg" alt="C#">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg" alt="C++">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Python">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="Java">

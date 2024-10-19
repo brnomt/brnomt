@@ -49,6 +49,7 @@
     <td>
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="Visual Studio Code">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg" alt="Adobe Photoshop">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg" alt="Notion">
     </td>
   </tr>
   <tr>

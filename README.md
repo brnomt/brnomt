@@ -56,8 +56,8 @@
     <td><b>Hardware & Infrastructure:</b></td>
     <td>
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg" alt="Raspberry Pi">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg" alt="Arduino">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare2.svg" alt="Cloudflare">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg" alt="Cloudflare">
     </td>
   </tr>
   <tr>

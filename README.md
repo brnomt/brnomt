@@ -30,6 +30,7 @@
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg" alt="NodeJS">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg" alt="NPM">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg" alt="Vite">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg" alt="Express">
     </td>
   </tr>
   <tr>
@@ -67,6 +68,7 @@
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios1.svg" alt="iOS">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" alt="Ubuntu">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg" alt="Kali">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" alt="Android">
     </td>
   </tr>
 </table>

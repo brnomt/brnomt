@@ -38,6 +38,7 @@
     <td>
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" alt="MySQL">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CouchDB/couchdb2.svg" alt="CouchDB">
     </td>
   </tr>
 </table>

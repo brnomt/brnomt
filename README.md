@@ -1,12 +1,11 @@
-
 <h1 align="center">Hi! 👋, I'm Bruno</h1>
 <h3 align="center">I'm a Computer Engineering student with a love for cybersecurity.</h3>
 
-# 💻 Tech Stack:
+# 📚 Tech Stack:
 
 <table style="border: none;">
   <tr>
-    <td><b>Languages:</b></td>
+    <td>🔍 <b>Languages:</b></td>
     <td>
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg" alt="C">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg" alt="C++">
@@ -16,7 +15,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Web Technologies:</b></td>
+    <td>🌐 <b>Web Technologies:</b></td>
     <td>
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" alt="HTML5">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="CSS3">
@@ -25,7 +24,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Backend & Tools:</b></td>
+    <td>🔧 <b>Backend & Tools:</b></td>
     <td>
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg" alt="NodeJS">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg" alt="NPM">
@@ -35,7 +34,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Databases:</b></td>
+    <td>📈 <b>Databases:</b></td>
     <td>
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" alt="MySQL">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB">
@@ -48,7 +47,7 @@
 
 <table style="border: none;">
   <tr>
-    <td><b>Development Tools:</b></td>
+    <td>💻 <b>Development Tools:</b></td>
     <td>
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="Visual Studio Code">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg" alt="Adobe Photoshop">
@@ -57,7 +56,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Hardware & Infrastructure:</b></td>
+    <td>🔌 <b>Hardware & Infrastructure:</b></td>
     <td>
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg" alt="Raspberry Pi">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg" alt="Arduino">
@@ -65,7 +64,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Operating Systems:</b></td>
+    <td>🖥️ <b>Operating Systems:</b></td>
     <td>
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg" alt="Windows">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios1.svg" alt="iOS">

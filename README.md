@@ -31,6 +31,7 @@
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg" alt="NPM">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg" alt="Vite">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg" alt="Express">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" alt="Docker">
     </td>
   </tr>
   <tr>
@@ -52,6 +53,7 @@
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="Visual Studio Code">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg" alt="Adobe Photoshop">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg" alt="Notion">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg" alt="Postman">
     </td>
   </tr>
   <tr>

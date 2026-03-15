@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering student passionate about cybersecurity.</h3>
 
 <p align="center">
-💼 <b>Jr. System Administrator @ PloxHost</b>
+💼 <b>Jr. System Administrator @ [PloxHost](https://plox.host/)</b>
 </p>
 
 ---

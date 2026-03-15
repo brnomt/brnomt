@@ -142,6 +142,14 @@
 
 # ⭐ Featured Projects
 
-Coming soon...
+<p align="center">
+  <a href="https://github.com/brnomt/PN532-Dumper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brnomt&repo=PN532-Dumper&theme=tokyonight">
+  </a>
+
+  <a href="https://github.com/brnomt/VolControl-Micro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brnomt&repo=VolControl-Micro&theme=tokyonight">
+  </a>
+</p>
 
 <!-- I was kinda lazy doing this lol -->

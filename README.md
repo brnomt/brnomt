@@ -2,8 +2,31 @@
 <h3 align="center">Computer Engineering student passionate about cybersecurity.</h3>
 
 <p align="center">
-💼 <b>Jr. System Administrator @ [PloxHost](https://plox.host/)</b>
+💼 <b>Jr. System Administrator @ <a href="https://plox.host/">PloxHost</a></b>
 </p>
+
+<p align="center">
+🛡️ Cybersecurity • 🖥️ Systems • ⚙️ Infrastructure • 🌐 Web Development
+</p>
+
+---
+
+# 🚀 About Me
+
+- 🎓 Computer Engineering student
+- 🛡️ Interested in **Cybersecurity & System Administration**
+- 🖥️ Working as **Jr. System Administrator @ PloxHost**
+- ⚙️ I enjoy working with **servers, infrastructure and backend systems**
+- 🔬 Always learning about **security, networking and Linux systems**
+
+---
+
+# 🧠 Currently Learning
+
+- 🔐 Offensive Security fundamentals
+- 🐧 Advanced Linux system administration
+- ☁️ Infrastructure & containerization
+- 🕵️ Web security & vulnerability research
 
 ---
 
@@ -13,40 +36,40 @@
   <tr>
     <td>🔍 <b>Languages:</b></td>
     <td>
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg" alt="C">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg" alt="C++">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" alt="Java">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" alt="JavaScript">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg" alt="PHP">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Python">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
     </td>
   </tr>
   <tr>
     <td>🌐 <b>Web Technologies:</b></td>
     <td>
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" alt="CSS3">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" alt="HTML5">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue1.svg" alt="Vue">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue1.svg">
     </td>
   </tr>
   <tr>
     <td>🔧 <b>Backend & Tools:</b></td>
     <td>
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" alt="Docker">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg" alt="Express">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg" alt="NodeJS">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg" alt="NPM">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg" alt="Vite">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg">
     </td>
   </tr>
   <tr>
     <td>📈 <b>Databases:</b></td>
     <td>
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CouchDB/couchdb2.svg" alt="CouchDB">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" alt="MySQL">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="PostgreSQL">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CouchDB/couchdb2.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg">
     </td>
   </tr>
 </table>
@@ -59,32 +82,65 @@
   <tr>
     <td>💻 <b>Development Tools:</b></td>
     <td>
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg" alt="Notion">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg" alt="Postman">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg" alt="Adobe Photoshop">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="Visual Studio Code">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg">
     </td>
   </tr>
   <tr>
     <td>🔌 <b>Hardware & Infrastructure:</b></td>
     <td>
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg" alt="Arduino">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare2.svg" alt="Cloudflare">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg" alt="Raspberry Pi">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare2.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg">
     </td>
   </tr>
   <tr>
     <td>🖥️ <b>Operating Systems:</b></td>
     <td>
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" alt="Android">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios1.svg" alt="iOS">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg" alt="Kali Linux">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg" alt="Ubuntu">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg" alt="Windows">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios1.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg">
     </td>
   </tr>
 </table>
 
 ---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=brunomoragat&show_icons=true&theme=tokyonight">
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomoragat&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=brunomoragat&theme=tokyonight">
+</p>
+
+---
+
+# 📫 Contact
+
+<p align="center">
+<a href="https://github.com/brunomoragat">GitHub</a> •
+<a href="https://linkedin.com/">LinkedIn</a>
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+Coming soon...
 
 <!-- I was kinda lazy doing this lol -->

@@ -14,19 +14,17 @@
 # 🚀 About Me
 
 - 🎓 Computer Engineering student
-- 🛡️ Interested in **Cybersecurity & System Administration**
-- 🖥️ Working as **Jr. System Administrator @ PloxHost**
-- ⚙️ I enjoy working with **servers, infrastructure and backend systems**
-- 🔬 Always learning about **security, networking and Linux systems**
+- 💼 Jr. System Administrator @ **PloxHost**
+- 🛡️ Interested in **Cybersecurity, System Administration & Infrastructure**
+- ⚙️ I enjoy working with **servers, networking, and backend systems**
+- 🐧 Linux enthusiast
+- 🔬 Always learning about **security, networking, RF communications, and Linux systems**
 
 ---
 
 # 🧠 Currently Learning
 
-- 🔐 Offensive Security fundamentals
-- 🐧 Advanced Linux system administration
-- ☁️ Infrastructure & containerization
-- 🕵️ Web security & vulnerability research
+- 📡 Amateur Radio (Ham Radio) & RF communications
 
 ---
 

@@ -113,11 +113,11 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=brunomoragat&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=brnomt&show_icons=true&theme=tokyonight">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunomoragat&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnomt&layout=compact&theme=tokyonight">
 </p>
 
 ---
@@ -125,7 +125,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=brunomoragat&theme=tokyonight">
+<img src="https://streak-stats.demolab.com?user=brnomt&theme=tokyonight">
 </p>
 
 ---
@@ -133,7 +133,8 @@
 # 📫 Contact
 
 <p align="center">
-<a href="https://github.com/brunomoragat">GitHub</a> •
+<a href="https://github.com/brnomt">GitHub</a> •
+<a href="https://x.com/brnomt">Twitter (Or X)</a>
 <a href="https://linkedin.com/">LinkedIn</a>
 </p>
 

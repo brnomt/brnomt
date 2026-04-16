@@ -132,7 +132,7 @@
 
 <p align="center">
 <a href="https://github.com/brnomt">GitHub</a> •
-<a href="https://x.com/brnomt">Twitter (Or X)</a> •
+<a href="https://x.com/brnomt_">Twitter (Or X)</a> •
 <a href="https://www.linkedin.com/in/brunomoragat/">LinkedIn</a>
 </p>
 

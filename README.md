@@ -36,6 +36,7 @@
     <td>
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go2.svg">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg">

@@ -25,7 +25,7 @@
 # 🧠 Currently Learning
 
 - 📡 Amateur Radio (Ham Radio) & RF communications
-- 🛡️ Hardware Decompilation & Reverse Engineering (specifically trying to decompile the FiiO Echo Mini firmware)
+- 🛡️ Hardware Decompilation & Reverse Engineering
 
 ---
 

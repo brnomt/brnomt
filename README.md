@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋, I'm Bruno 🤠</h1>
-<h3 align="center">Computer Engineering student passionate about Cybersecurity and SRE.</h3>
+<h3 align="center">I'd rather be mid at everything than expert at something.</h3>
 
 <p align="center">
 💼 <b>Jr. System Administrator @ <a href="https://plox.host/">PloxHost</a></b>

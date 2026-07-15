@@ -2,7 +2,7 @@
 <h3 align="center">I'd rather be mid at everything than expert at something.</h3>
 
 <p align="center">
-💼 <b>Jr. System Administrator @ <a href="https://plox.host/">PloxHost</a></b>
+💼 <b>System Administrator @ <a href="https://plox.host/">PloxHost</a></b>
 </p>
 
 <p align="center">

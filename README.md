@@ -3,6 +3,7 @@
 
 <p align="center">
 💼 <b>System Administrator @ <a href="https://plox.host/">PloxHost</a></b>
+🛡️ <b>Building @ <a href="https://hined.app/">Hined</a></b>
 </p>
 
 <p align="center">

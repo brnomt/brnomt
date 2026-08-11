@@ -18,9 +18,8 @@
 # 🚀 About Me
 
 - 🎓 Computer Engineering student
-- 💼 Jr. System Administrator @ **PloxHost**
-- 🛡️ Interested in **Cybersecurity, SRE, System Administration & Infrastructure**
-- ⚙️ I enjoy working with **servers, networking, and backend systems**
+- 💼 System Administrator @ **PloxHost**
+- ⚙️ I enjoy working with **servers, networking, backend systems, a bit of everything honestly**
 - 🐧 Linux enthusiast
 - 🔬 Always learning about **security, networking, RF communications, and Linux systems**
 
@@ -62,6 +61,7 @@
 <td>
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Laravel/laravel2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg">
@@ -114,18 +114,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=brnomt&show_icons=true&theme=tokyonight">
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnomt&layout=compact&theme=tokyonight">
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -147,12 +135,12 @@
 # ⭐ Featured Projects
 
 <p align="center">
-<a href="https://github.com/brnomt/PN532-Dumper">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=brnomt&repo=PN532-Dumper&theme=tokyonight">
+<a href="https://github.com/brnomt/PTAC">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=brnomt&repo=PTAC&theme=tokyonight">
 </a>
 
-<a href="https://github.com/brnomt/VolControl-Micro">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=brnomt&repo=VolControl-Micro&theme=tokyonight">
+<a href="https://github.com/brnomt/FiioDcomp">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=brnomt&repo=FiioDcomp&theme=tokyonight">
 </a>
 </p>
 

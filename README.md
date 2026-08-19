@@ -64,6 +64,7 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Laravel/laravel2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm2.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg">
 </td>
 </tr>

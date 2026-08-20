@@ -99,6 +99,7 @@
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino1.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare2.svg">
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg">
 </td>
 </tr>
 <tr>
